@@ -6,13 +6,14 @@
 # What does the client about?
 - PVP
 - Trolling
+- HVH Mobile Client
 
 # How to install
 To install simply download the .js file and run it using blocklauncher.
 
 # Developers
 - Dividq
-- thatlastpringle
+- Pringle
 
-# Latest update
+# Latest update 12/8/2019
 - Toggle fixes.
